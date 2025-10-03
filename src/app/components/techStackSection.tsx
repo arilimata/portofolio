@@ -2,7 +2,7 @@
 
 import { motion } from "motion/react";
 
-import { Box, Flex, Grid, Text } from "@radix-ui/themes";
+import { Flex, Grid, Text } from "@radix-ui/themes";
 import TechStack from "./techStack";
 
 export default function TechStackSection() {

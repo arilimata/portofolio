@@ -20,7 +20,7 @@ export default function Contact() {
         </Text>
         <Text className="text-gray-400 mb-12 text-lg font-mono leading-relaxed">
           Have a project in mind, collaboration idea, or just want to say hello?
-          Drop me a message and I'll get back to you as soon as possible.
+          Drop me a message and I&apos;ll get back to you as soon as possible.
         </Text>
 
         {/* Form */}

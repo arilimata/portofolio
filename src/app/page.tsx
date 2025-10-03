@@ -22,7 +22,7 @@ export default function Home() {
         >
           <Image src={"/file.svg"} width={90} height={90} alt="Illustration" />
           <Text className="text-xl sm:text-2xl md:text-4xl font-bold font-mono text-white">
-            Hi, I'm Ariella Firdaus Imata
+            Hi, I&apos;m Ariella Firdaus Imata
           </Text>
           {/* Komponen typing kamu */}
           <div className="mt-2 text-cyan-400 font-mono">

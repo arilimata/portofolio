@@ -2,8 +2,7 @@
 
 import * as React from "react";
 import { motion } from "motion/react";
-import { Button, Flex, Text } from "@radix-ui/themes";
-import Image from "next/image";
+import { Flex } from "@radix-ui/themes";
 
 const texts = [
   "Full-Stack Web Developer",
