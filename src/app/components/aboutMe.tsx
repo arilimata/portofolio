@@ -25,7 +25,7 @@ export default function AboutMe() {
         >
           <Box className="relative flex-shrink-0">
             <Image
-              src="/profile.jpg"
+              src="/profile-3.jpg"
               alt="Profile Picture"
               width={260}
               height={260}

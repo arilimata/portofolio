@@ -20,7 +20,9 @@ export default function Home() {
           direction="column"
           className="min-h-screen"
         >
-          <Image src={"/file.svg"} width={90} height={90} alt="Illustration" />
+          <div className="mb-4 rounded-full overflow-hidden border-1 shadow-lg">
+            <Image src={"/profile-2.png"} width={130} height={130} alt="Illustration" className="" />
+          </div>
           <Text className="text-xl sm:text-2xl md:text-4xl font-bold font-mono text-white">
             Hi, I&apos;m Ariella Firdaus Imata
           </Text>
