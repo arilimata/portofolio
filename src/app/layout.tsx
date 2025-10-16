@@ -16,7 +16,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Portofoloio | Ariella Firdaus Imata",
+  title: "Portofolio | Ariella Firdaus Imata",
   description: "Ariella Firdaus Imata's personal portfolio website showcasing projects, skills, and experience as a web developer.",
 };
 
